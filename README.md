@@ -1,4 +1,4 @@
-# Juvenile Fin-Clamp — Open Hardware & Analysis Repository
+# Juvenile Fin-Clamp: Open hardware designs, sensor processing scripts and CFD resources for minimally invasive biologging of juvenile sharks
 
 This repository contains all hardware design files, sensor processing scripts, 
 and computational fluid dynamics (CFD) resources associated with the following publication:
