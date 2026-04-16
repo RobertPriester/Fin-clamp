@@ -6,17 +6,23 @@ and computational fluid dynamics (CFD) resources associated with the following p
 > Citation and DOI to be added upon publication.
 
 ## Repository Structure
-/Fin-clamp production
-/CAD resources       — CAD files (.step, .f3z)
-/Instructions        — Step-by-step production instructions and PDF plans
-/Sensor processing scripts
-— R scripts for processing LittleLeonardo accelerometry,
-depth and temperature data
-/CFD
-/3D models           — Simplified .stl models of the fin-clamp and juvenile
-smooth hammerhead shark used in simulations
-/Simulation results  — SimScale simulation outputs, summary table, and R scripts
-for result processing and figure production
+
+### 🗂️ Fin-clamp production
+Resources to reproduce the Juvenile Fin-Clamp hardware.
+- **CAD resources** — CAD files in .step (universal) and .f3z (Fusion 360) formats
+- **Instructions** — Step-by-step production instructions, PDF technical plans and assembly resources
+
+### 📊 Sensor processing scripts
+R scripts for processing LittleLeonardo accelerometry, depth and temperature data 
+to reproduce the results of the publication. Includes an R script adapted from the 
+MATLAB code of Cade et al. (2018) to run jiggle method calculations.
+
+### 🌊 CFD
+Resources for the computational fluid dynamics simulations.
+- **3D models** — Simplified .stl models of the Juvenile Fin-Clamp and juvenile 
+  smooth hammerhead shark used in SimScale simulations
+- **Simulation results** — SimScale simulation outputs, summary table, and R scripts 
+  for processing results and producing figures
 
 ## Authors
 
