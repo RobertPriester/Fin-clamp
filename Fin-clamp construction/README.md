@@ -8,8 +8,8 @@ described in:
 ## Contents
 
 - **/CAD resources** — CAD files in .step (universal) and .f3z (Fusion 360) 
-  formats for all fin-clamp components
-- **/Instructions** — Step-by-step production instructions, PDF technical plans, 
+  formats for all fin-clamp components and exported CAD plans
+- **Fin-Clamp Construction Instructions** — Step-by-step production instructions, PDF technical plans, 
   and all relevant assembly resources
 
 ## Contributors
@@ -18,8 +18,8 @@ Design and documentation: C. Robert Priester, Catarina Fazenda
 
 ## How to Reproduce the Fin-Clamp
 
-Full step-by-step instructions are provided in the /Instructions folder. 
-All necessary technical plans and resources are included as PDF files.
+Full step-by-step instructions are provided in the Fin-Clamp Construction Instructions document
+with all necessary technical plans and resources.
 For questions about specific production steps, please open a 
 [GitHub Issue](../issues) (see below).
 
